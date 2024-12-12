@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://muhammad-arsalan.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJs, NextJS, NextJs, NuxtJs**
+- 🌱 I’m currently learning **ReactJs, NextJS, NodeJs, NuxtJs**
 
 - 👯 I’m looking to collaborate on [Freelance Projects](https://www.upwork.com/freelancers/~0197f2d71cba23ea3c)
 
