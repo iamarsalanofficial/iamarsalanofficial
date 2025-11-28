@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhammad-arsalan.netlify.app/](https://muhammad-arsalan.netlify.app/)
 
-- 📝 I regularly write articles on [https://articleswitharsalan.blogspot.com/](https://protipswitharsalan.blogspot.com/)
+- 📝 I regularly write articles on [https://protipswitharsalan.blogspot.com/](https://protipswitharsalan.blogspot.com/)
 
 - 💬 Ask me about **PHP, Laravel, MySQL**
 
